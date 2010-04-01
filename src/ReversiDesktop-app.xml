@@ -9,7 +9,7 @@
 
 	<version>1</version>
 
-	<description>Play Reversi against a friend.</description>
+	<description>A one or two player Reversi game.</description>
 
 	<!-- <copyright></copyright> -->
 
@@ -31,11 +31,11 @@
 		<!-- <maxSize></maxSize> -->
 	</initialWindow>
 
-	<!-- <icon>
-		<image16x16></image16x16>
-		<image32x32></image32x32>
-		<image48x48></image48x48>
-		<image128x128></image128x128>
-	</icon> -->
+	<icon>
+		<image16x16>assets/Reversi_16.png</image16x16>
+		<image32x32>assets/Reversi_32.png</image32x32>
+		<image48x48>assets/Reversi_48.png</image48x48>
+		<image128x128>assets/Reversi_128.png</image128x128>
+	</icon>
 
 </application>
