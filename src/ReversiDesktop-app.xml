@@ -3,11 +3,11 @@
 
 	<id>com.christiancantrell.reversidesktop</id>
 
-	<filename>Reversi</filename>
+	<filename>iReverse</filename>
 
-	<name>Reversi</name>
+	<name>iReverse</name>
 
-	<version>1</version>
+	<version>0.9</version>
 
 	<description>A one or two player Reversi game.</description>
 
