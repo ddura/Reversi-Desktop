@@ -23,8 +23,12 @@
 		<!-- <minimizable></minimizable> -->
 		<!-- <maximizable></maximizable> -->
 		<!-- <resizable></resizable> -->
+		<!--
 		<width>740</width>
 		<height>430</height>
+		-->
+		<width>320</width>
+		<height>480</height>
 		<!-- <x></x> -->
 		<!-- <y></y> -->
 		<!-- <minSize></minSize> -->
