@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<application xmlns="http://ns.adobe.com/air/application/2.0">
+<application xmlns="http://ns.adobe.com/air/application/2.6">
 
-	<id>com.christiancantrell.ireverse</id>
+	<id>com.christiancantrell.ireversedesktop</id>
 
 	<filename>iReverse</filename>
 
 	<name>iReverse</name>
 
-	<version>1.1</version>
+	<versionNumber>1.1</versionNumber>
 
 	<description>A one or two player Reversi game.</description>
 
-	<copyright>Copyright 2010 Cantrell Media Company</copyright>
+	<copyright>Copyright 2011 Cantrell Media Company</copyright>
 
 	<initialWindow>
 		<content>[This value will be overwritten by Flash Builder in the output app.xml]</content>
@@ -40,6 +40,7 @@
 		<image32x32>assets/Reversi_32.png</image32x32>
 		<image48x48>assets/Reversi_48.png</image48x48>
 		<image128x128>assets/Reversi_128.png</image128x128>
+		<image512x512>assets/Reversi_512.png</image512x512>
 	</icon>
 
 </application>
