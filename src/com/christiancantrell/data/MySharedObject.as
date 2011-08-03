@@ -25,7 +25,7 @@ package com.christiancantrell.data
 				this.data = new Object();
 			}
 		}
-		
+				
 		public static function getLocal(key:String):MySharedObject
 		{
 			return new MySharedObject(key);

@@ -62,7 +62,6 @@ package
 	import flash.net.GroupSpecifier;
 	import flash.net.NetConnection;
 	import flash.net.NetGroup;
-	import flash.net.SharedObject;
 	import flash.net.registerClassAlias;
 	import flash.sensors.Accelerometer;
 	import flash.system.Capabilities;
